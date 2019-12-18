@@ -1,0 +1,1 @@
+Multilayer Perceptron Network to predict if the person examined suffers from Alzheimer's disease, using data taken from their blood test. Project for the purpose of the Neural Network class, University of Macedonia, Greece.
